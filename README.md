@@ -8,4 +8,5 @@
 https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
 🪐 -> Twitter address:
 https://twitter.com/WilliamZohrabi
-# Learning how to build a Django project
+# Learning how to build a Django project:
+• First, we install the war, of course, we install it with the pip command
