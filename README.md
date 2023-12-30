@@ -8,3 +8,4 @@
 https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
 🪐 -> Twitter address:
 https://twitter.com/WilliamZohrabi
+# Learning how to build a Django project
