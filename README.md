@@ -25,3 +25,6 @@ https://t.me/+qUyaqI5KDQpjMTk0
 
 • When you install Django, to create a project, we must type this command: write: django-admin start project my project and a directory will be created.
 
+• And be sure to use a good editor like Visual Studio Code.
+
+
