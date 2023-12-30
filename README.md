@@ -12,3 +12,4 @@ https://twitter.com/WilliamZohrabi
 https://t.me/+qUyaqI5KDQpjMTk0
 # Learning how to build a Django project:
 • First, we install the war, of course, we install it with the pip command
+• When you install Django, to create a project, we must type this command: write: django-admin start project my project and a directory will be created.
