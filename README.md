@@ -10,7 +10,6 @@ be created for you.
 📓 -> Take a look at the note file.
 
 🌀 -> And to watch videos, subscribe to this 
-
 🔴YouTube channel:
 https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
 
